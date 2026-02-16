@@ -1,0 +1,29 @@
+# Core
+numpy
+pandas
+scikit-learn
+
+# Data
+ yfinance
+
+# Deep Learning
+tensorflow
+keras
+
+# API
+fastapi
+uvicorn
+pydantic
+
+# Monitoring & Stats
+scipy
+
+# Utils
+joblib
+python-dotenv
+
+# Dashboard
+streamlit
+matplotlib
+plotly
+requests
